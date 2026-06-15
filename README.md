@@ -1,2 +1,2 @@
 # Mysql-layoffs-data-cleaning
-Data Cleaning in Mysql
+Data Cleaning of Layoffs Dataset using MySQL.
